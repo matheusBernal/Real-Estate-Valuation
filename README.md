@@ -1,4 +1,4 @@
-#Real Estate Valuation
+#Real-Estate-Valuation
 
 This project leverages the real estate valuation dataset collected from the Sindian District, New Taipei City, Taiwan, to develop and evaluate various machine learning models for property price prediction. Using simple linear regression as a starting point, I created several models, compared their performance, and selected the best-performing algorithms. These selected models were then used to generate predictions for the target column (property prices).
 
